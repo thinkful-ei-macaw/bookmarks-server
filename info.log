@@ -1,0 +1,10 @@
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark with id 5c99ae7a-e16f-4cb7-9d5b-6bb6a0116e08 created","level":"info"}
+{"message":"Bookmark with id 3386ed01-3b1a-4e84-a839-ffdd1d7e13f0 created","level":"info"}
+{"message":"Bookmark with id 7cf4626d-7321-4e9c-9af0-3256ac2a5f4b created","level":"info"}
+{"message":"Bookmark with id 7cf4626d-7321-4e9c-9af0-3256ac2a5f4b not found.","level":"error"}
+{"message":"Bookmark with id 14c5b567-a121-4ef3-a838-6c21319a9c0c created","level":"info"}
+{"message":"Card with id 14c5b567-a121-4ef3-a838-6c21319a9c0c deleted.","level":"info"}
+{"message":"Invalid url 'this is not a url' supplied","level":"error"}
+{"message":"Bookmark with id e3c6ac8f-5f2b-4840-a332-86d3a63e3308 created","level":"info"}
+{"message":"Invalid url 'www.weener.com' supplied","level":"error"}
